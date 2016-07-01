@@ -19,5 +19,5 @@
 
 There are a few known differences between the TurtleBot2e and the 
 
-*   Joystick kernel drivers need to be compiled and installed if wanted (build instructions)
+*   Joystick kernel drivers need to be compiled and installed if wanted ([kernel module build instructions](https://builds.96boards.org/releases/dragonboard410c/linaro/debian/latest/))
 *   Networking ARP issues([workaround](http://www.96boards.org/forums/topic/ssh-and-ping-workarounds/), [other discussion](http://www.96boards.org/forums/topic/410cubuntu-cant-ssh-in/))
